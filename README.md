@@ -1,6 +1,6 @@
 # La hostIA que viene
 **Título del libro: Jon Hernández · Editorial Planeta · Divulgador de IA
-**Seminario de Inteligencia Artificial en Rehabilitación Médica · 2026**
+Seminario de Inteligencia Artificial en Rehabilitación Médica · 2026**
 
 🔗 **Ver la presentación online:** https://fleonardoruiz.github.io/ia-en-rehabilitacion/
 
